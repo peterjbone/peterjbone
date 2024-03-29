@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer
 -----------------------
 
-I am a full stack developer, I feel like using front and back technologies as well, I have 2 years of experience doing personal and freelance projects
+I am a full stack developer, I feel like using front and back technologies as well, I have 1 year of experience doing personal projects
 
 * 🌍  I'm based in Guayaquil, Ecuador
 * ✉️  You can contact me at [peterjbone41@gmail.com](mailto:peterjbone41@gmail.com)
