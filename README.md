@@ -8,7 +8,6 @@ I am a full stack developer, I feel like using front and back technologies as we
 
 * 🌍  I'm based in Guayaquil, Ecuador
 * ✉️  You can contact me at [peterjbone41@gmail.com](mailto:peterjbone41@gmail.com)
-* 🚀  I'm currently working on this personal project: N/A
 * 🧠  I'm learning NextJS, Tailwind, Typescript
 * 🤝  I'm open to collaborating on Any projects
 
