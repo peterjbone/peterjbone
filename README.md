@@ -36,8 +36,8 @@
 
 ### My Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=peterjbone&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=6366f1&bg_color=22272e&hide_border=true&show_icons=true" alt="peterjbone's GitHub stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=peterjbone&stroke=3382ed&background=22272e&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterjbone&langs_count=10&title_color=f97316&text_color=3382ed&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=peterjbone&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=peterjbone&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=peterjbone&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
