@@ -13,7 +13,7 @@ const JOAO = {
 	askMeAbout: ["web dev", "app dev", "UI/UX"],
 	codeEditor: "VScode",
 	technologies: {
-    basicsOfWeb: ["HTML", "CSS", "Javascript"]
+		basicsOfWeb: ["HTML", "CSS", "Javascript"],
 		frontEnd: {
 			js: ["React", "Next.js"],
 			css: ["CSS modules", "Sass", "Tailwind", "Styled components"],
