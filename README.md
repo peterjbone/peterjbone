@@ -41,3 +41,8 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=peterjbone&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=peterjbone&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
+
+### Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/peterjbone/airbnb-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=peterjbone&repo=airbnb-clone&title_color=f97316&text_color=3382ed&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/peterjbone/medical-chat" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=peterjbone&repo=medical-chat&title_color=f97316&text_color=3382ed&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/peterjbone/snakecase" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=peterjbone&repo=snakecase&title_color=f97316&text_color=3382ed&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en" /></a></div>
